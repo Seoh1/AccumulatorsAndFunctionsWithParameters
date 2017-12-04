@@ -111,7 +111,7 @@ def run_test_better_draw_circles():
     better_draw_circle(5)
 
 # ----------------------------------------------------------------------
-# TODO: 3.
+# DONE: 3.
 #   In the previous exercise, you made a MORE POWERFUL version
 #   of draw_circles by introducing a PARAMETER for the amount by
 #   which the radii of the concentric circles increase.
@@ -151,7 +151,7 @@ def even_better_draw_circles(n_circles, ridi_range, color):
     window.close_on_mouse_click()
 
 def run_test_even_better_draw_circles():
-    even_better_draw_circles(9, 8, 'red')
+    even_better_draw_circles(9, 8, 'blue')
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
