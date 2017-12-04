@@ -89,7 +89,7 @@ def run_test_sum_square_roots():
     print('--------------------------------------------------')
 
     # Test 1
-    expected = 1.124155470
+    expected = 3.414213562
     answer = sum_square_roots(2)
     print('Test 1 expected:', expected)
     print('Test 1 actual  :', answer)
@@ -101,7 +101,7 @@ def run_test_sum_square_roots():
     print('Test 2 actual  :', answer)
 
     # Test 3
-    expected = -0.5194806475
+    expected = 8.692130429902
     answer = sum_square_roots(4)
     print('Test 3 expected:', expected)
     print('Test 3 actual  :', answer)
